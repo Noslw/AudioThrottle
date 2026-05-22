@@ -1,24 +1,24 @@
-# LICENSE
+LICENSE
 
-Copyright (c) 2026 [YOUR NAME OR USERNAME]. All rights reserved.
+Copyright (c) 2026 Noslow.
 
-This repository and its contents are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0), subject to the explicit modpack exception outlined below.
+This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0), subject to the explicit exception outlined below.
 
 ---
 
-## License Overview
+License Overview
 
 | Permitted | Prohibited |
 | :--- | :--- |
-| **Private Use:** Downloading, installing, and playing with the software locally. | **Commercial Use:** Selling the software, placing it behind paywalls, or utilizing it for direct financial gain. |
-| **Distribution:** Sharing the original, unmodified binaries or source files. | **Modification:** Modifying the source code or assets and distributing the altered versions publicly. |
-| **Modpack Inclusion:** Bundling the unmodified software into public or private modpacks. | **Sublicensing:** Re-licensing the software or changing the terms of distribution for downstream users. |
+| Private Use: Downloading, installing, and using the software locally. | Commercial Use: Selling the software, placing it behind paywalls, or utilizing it for direct financial gain. |
+| Distribution: Sharing the original, unmodified binaries or source files. | Modification: Modifying the source code or assets and distributing the altered versions publicly. |
+| Project Inclusion: Bundling the unmodified software into public or private packages or distributions. | Sublicensing: Re-licensing the software or changing the terms of distribution for downstream users. |
 
 ---
 
-## Terms and Conditions
+Terms and Conditions
 
-### 1. General Terms
+1. General Terms
 Except as provided in Section 2, all source code, compiled binaries, textures, assets, and documentation contained within this repository are bound by the terms of the CC BY-NC-ND 4.0 license. 
 
 Under these terms, you may copy and redistribute the material in any medium or format, provided that you give appropriate credit to the original creator, provide a link to the license, and do not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
@@ -26,11 +26,11 @@ Under these terms, you may copy and redistribute the material in any medium or f
 The full legal text of this license can be reviewed at:  
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
-### 2. Modpack Permission Exception
-Notwithstanding the restrictions in Section 1, explicit permission is hereby granted, free of charge, to any person or entity to include this software in public or private modpacks (including, but not limited to, packs hosted on CurseForge, Modrinth, or similar distribution platforms), provided that the following conditions are met:
+2. Distribution Permission Exception
+Notwithstanding the restrictions in Section 1, explicit permission is hereby granted, free of charge, to any person or entity to include this software in public or private software packages or curated distributions, provided that the following conditions are met:
 
-1. **Non-Commercial Distribution:** The modpack containing this software must be entirely free to access, download, and play. No fee, mandatory donation, or paywall may be required to access the modpack.
-2. **Preservation of Integrity:** The software must remain completely unmodified and be distributed strictly in its original, compiled form.
+1. Non-Commercial Distribution: The distribution containing this software must be entirely free to access, download, and use. No fee, mandatory donation, or paywall may be required to access the distribution.
+2. Preservation of Integrity: The software must remain completely unmodified and be distributed strictly in its original, compiled form.
 
-### 3. Disclaimer of Warranty
+3. Disclaimer of Warranty
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
