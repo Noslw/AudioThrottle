@@ -3,7 +3,7 @@
 	"id": "audiothrottle",
 	"version": "${version}",
 	"name": "AudioThrottle",
-	"description": "Client-side sound density throttling for crowded farms and other identical-sound bursts.",
+	"description": "Improves the Minecraft sound engine",
 	"authors": [
 		"Noslow"
 	],
